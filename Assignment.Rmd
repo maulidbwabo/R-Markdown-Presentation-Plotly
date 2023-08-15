@@ -27,3 +27,8 @@ library(plotly)
 ```{r}
 plot_ly(z=volcano, type="surface")
 ```
+
+```{r}
+p = plot_ly(midwest, x = ~percollege, color = ~state, type = "box")
+p
+```
