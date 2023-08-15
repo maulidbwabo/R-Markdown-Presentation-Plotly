@@ -1,2 +1,2 @@
 # R-Markdown-Presentation-Plotly
-Plotly
+Markdown presentation with plotly
